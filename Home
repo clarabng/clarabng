@@ -1,5 +1,9 @@
+<!DOCTYPE html>
 <html>
-<heading>
+<head>
     <title>Clara Ng</title>
-    <p>Welcome to my Github Page!</p>
-</heading>
+</head>
+<body>
+<h1>Welcome to my Github Page!</h1>
+<p>I will be posting some contact information and my work from E1T1 here</p>
+</body>
