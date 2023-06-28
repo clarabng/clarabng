@@ -1,2 +1,2 @@
-# clarang
-personal webpage for e1t1
+# Clara Ng
+My personal webpage for E1T1.
