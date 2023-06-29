@@ -5,3 +5,21 @@ body{
     background: peachpuff;
     text-align: center;
 }
+button.action_btn{
+    display: inline-block;
+}
+button {
+    display: inline-block;
+    background-color: #d5c4ee;
+    padding: 15px;
+    width: 130px;
+    color: #ffffff;
+    text-align: center;
+    border: 4px double #898080; /*  */
+    border-radius: 10px; /*  */
+    font-size: 15px; /* a */
+  }
+  .buttons {
+    display: flex
+  }
+ 
